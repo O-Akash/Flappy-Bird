@@ -10,6 +10,6 @@ This is a simple **Flappy Bird** game built using **Pygame**. The game features 
 - Randomly generated pipe gap positions
 - Collision detection
 - Score and high-score tracking
-- Start and Game-Over screens
+- Start screen and Game-Over screen
 
 ---
